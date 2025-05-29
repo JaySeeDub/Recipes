@@ -10,4 +10,5 @@
 * Cook it up
 * Mix things
 * Eat things
+* Sit back, relax, and enjoy the food!
 
